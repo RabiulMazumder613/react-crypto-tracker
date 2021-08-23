@@ -1,6 +1,6 @@
 # react-crypto-tracker
 
-**react-crypto-tracker** is a website similair where it tracks the cryptocurrency market and displaying varying types of cryptocurrencies, tracking their price changes, and the market cap of those cryptocurrencies. Uses the CoinGecko data market API to get data and analysis of the digital currency market. This is for me to get practice using React and APIs.
+**react-crypto-tracker** is a website similair to CoinGecko where it tracks the cryptocurrency market and displaying varying types of cryptocurrencies, tracking their price changes, and the market cap of those cryptocurrencies. Uses the CoinGecko data market API to get data and analysis of the digital currency market. This is for me to get practice using React and APIs.
 
 Time spent: **4** days spent in total
 
